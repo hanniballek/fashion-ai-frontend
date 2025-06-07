@@ -1,0 +1,17 @@
+/* index.css */
+
+/* إعادة تهيئة بعض العناصر */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* تحديد خط افتراضي للجسم */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff;
+  color: #333;
+}
+
+/* يمكن تضيف هنا أي قواعد عامة تحتاجها */
