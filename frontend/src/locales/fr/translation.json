@@ -1,0 +1,116 @@
+{
+  "login": {
+    "title": "Connexion",
+    "email": "Email",
+    "password": "Mot de passe",
+    "submit": "Se connecter",
+    "loggingIn": "Connexion en cours...",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "register": "S'inscrire",
+    "genericError": "Une erreur s'est produite lors de la connexion. Veuillez réessayer."
+  },
+  "register": {
+    "title": "Inscription",
+    "name": "Nom",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "submit": "S'inscrire",
+    "registering": "Inscription en cours...",
+    "haveAccount": "Vous avez déjà un compte ?",
+    "login": "Se connecter",
+    "passwordMismatch": "Les mots de passe ne correspondent pas",
+    "genericError": "Une erreur s'est produite lors de l'inscription. Veuillez réessayer."
+  },
+  "profile": {
+    "title": "Profil",
+    "name": "Nom",
+    "email": "Email",
+    "preferences": "Préférences",
+    "preferencesHelp": "Ajoutez vos préférences de mode pour obtenir des recommandations personnalisées",
+    "newPreference": "Ajouter une nouvelle préférence",
+    "add": "Ajouter",
+    "noPreferences": "Vous n'avez pas encore ajouté de préférences",
+    "saveChanges": "Enregistrer les modifications",
+    "saving": "Enregistrement...",
+    "updateSuccess": "Profil mis à jour avec succès",
+    "genericError": "Une erreur s'est produite lors de la mise à jour de votre profil. Veuillez réessayer.",
+    "notLoggedIn": "Veuillez vous connecter pour voir votre profil",
+    "memberSince": "Membre depuis",
+    "lastLogin": "Dernière connexion"
+  },
+  "nav": {
+    "home": "Accueil",
+    "products": "Produits",
+    "recommendations": "Recommandations",
+    "virtualTryOn": "Essayage virtuel",
+    "login": "Connexion",
+    "register": "Inscription",
+    "profile": "Profil",
+    "logout": "Déconnexion"
+  },
+  "home": {
+    "welcome": "Bienvenue sur Fashion AI",
+    "subtitle": "Découvrez les dernières tendances de la mode avec des recommandations personnalisées par IA",
+    "exploreButton": "Explorer les produits",
+    "featuredProducts": "Produits en vedette",
+    "viewDetails": "Voir les détails",
+    "addToCart": "Ajouter au panier"
+  },
+  "products": {
+    "title": "Produits",
+    "search": "Rechercher des produits...",
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "price": "Prix",
+    "category": "Catégorie",
+    "noResults": "Aucun produit ne correspond à votre recherche",
+    "tryOn": "Essayage virtuel",
+    "addToCart": "Ajouter au panier"
+  },
+  "productDetails": {
+    "addToCart": "Ajouter au panier",
+    "tryOn": "Essayage virtuel",
+    "description": "Description",
+    "specifications": "Spécifications",
+    "reviews": "Avis",
+    "relatedProducts": "Produits associés"
+  },
+  "recommendations": {
+    "title": "Recommandations personnalisées",
+    "subtitle": "Basées sur vos préférences et votre historique de navigation",
+    "loginToView": "Veuillez vous connecter pour voir les recommandations personnalisées",
+    "updatePreferences": "Mettre à jour les préférences",
+    "noRecommendations": "Aucune recommandation disponible pour le moment"
+  },
+  "virtualTryOn": {
+    "title": "Essayage virtuel",
+    "subtitle": "Essayez les vêtements virtuellement avant d'acheter",
+    "instructions": "Sélectionnez un produit à essayer virtuellement",
+    "uploadPhoto": "Télécharger une photo",
+    "takePhoto": "Prendre une photo",
+    "or": "ou",
+    "useAvatar": "Utiliser un avatar virtuel",
+    "processing": "Traitement de l'image...",
+    "viewResult": "Voir le résultat",
+    "saveImage": "Enregistrer l'image",
+    "tryAnother": "Essayer un autre produit"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite. Veuillez réessayer.",
+    "success": "Opération terminée avec succès",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "confirm": "Confirmer",
+    "back": "Retour",
+    "next": "Suivant",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "all": "Tous",
+    "currency": "SAR"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "login": {
+    "title": "Login",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Login",
+    "loggingIn": "Logging in...",
+    "noAccount": "Don't have an account?",
+    "register": "Register",
+    "genericError": "An error occurred during login. Please try again."
+  },
+  "register": {
+    "title": "Register",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "submit": "Register",
+    "registering": "Registering...",
+    "haveAccount": "Already have an account?",
+    "login": "Login",
+    "passwordMismatch": "Passwords do not match",
+    "genericError": "An error occurred during registration. Please try again."
+  },
+  "profile": {
+    "title": "Profile",
+    "name": "Name",
+    "email": "Email",
+    "preferences": "Preferences",
+    "preferencesHelp": "Add your fashion preferences to get personalized recommendations",
+    "newPreference": "Add new preference",
+    "add": "Add",
+    "noPreferences": "You haven't added any preferences yet",
+    "saveChanges": "Save Changes",
+    "saving": "Saving...",
+    "updateSuccess": "Profile updated successfully",
+    "genericError": "An error occurred while updating your profile. Please try again.",
+    "notLoggedIn": "Please login to view your profile",
+    "memberSince": "Member since",
+    "lastLogin": "Last login"
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "recommendations": "Recommendations",
+    "virtualTryOn": "Virtual Try-On",
+    "login": "Login",
+    "register": "Register",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "home": {
+    "welcome": "Welcome to Fashion AI",
+    "subtitle": "Discover the latest fashion trends with AI-powered personalized recommendations",
+    "exploreButton": "Explore Products",
+    "featuredProducts": "Featured Products",
+    "viewDetails": "View Details",
+    "addToCart": "Add to Cart"
+  },
+  "products": {
+    "title": "Products",
+    "search": "Search products...",
+    "filter": "Filter",
+    "sort": "Sort",
+    "price": "Price",
+    "category": "Category",
+    "noResults": "No products match your search",
+    "tryOn": "Virtual Try-On",
+    "addToCart": "Add to Cart"
+  },
+  "productDetails": {
+    "addToCart": "Add to Cart",
+    "tryOn": "Virtual Try-On",
+    "description": "Description",
+    "specifications": "Specifications",
+    "reviews": "Reviews",
+    "relatedProducts": "Related Products"
+  },
+  "recommendations": {
+    "title": "Personalized Recommendations",
+    "subtitle": "Based on your preferences and browsing history",
+    "loginToView": "Please login to view personalized recommendations",
+    "updatePreferences": "Update Preferences",
+    "noRecommendations": "No recommendations available at the moment"
+  },
+  "virtualTryOn": {
+    "title": "Virtual Try-On",
+    "subtitle": "Try clothes virtually before purchasing",
+    "instructions": "Select a product to try on virtually",
+    "uploadPhoto": "Upload Photo",
+    "takePhoto": "Take Photo",
+    "or": "or",
+    "useAvatar": "Use Virtual Avatar",
+    "processing": "Processing image...",
+    "viewResult": "View Result",
+    "saveImage": "Save Image",
+    "tryAnother": "Try Another Product"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred. Please try again.",
+    "success": "Operation completed successfully",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "all": "All",
+    "currency": "SAR"
+  }
+}
